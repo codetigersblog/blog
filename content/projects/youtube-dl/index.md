@@ -5,7 +5,7 @@ featured: true
 image: "./preview.jpg"
 ---
 
-#### An automation script to download youtube subscriptions as they are released
+#### A Platform to support innovation.
 
 [**Visit Us**](https://codetigers.org/)
 
