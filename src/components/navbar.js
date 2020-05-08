@@ -9,7 +9,7 @@ const Nav = () => {
     { title: 'Home', to: '/', mobileOnly: true },
     { title: 'Blog', to: '/blog' },
     { title: 'Projects', to: '/projects' },
-    { title: 'GitHub', href: 'https://www.github.com/SPDUK' },
+    { title: 'GitHub', href: 'https://www.github.com/code-tigers' },
     { title: 'Codetigers', href: 'https://codetigers.org' },
   ]
 
