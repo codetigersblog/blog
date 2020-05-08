@@ -1,17 +1,17 @@
 ---
 title: CODETIGERS
-date: "2019-04-01T00:00:00.000Z"
+date: "2020-05-07 T00:00:00.000Z"
 featured: true
 image: "./preview.jpg"
 ---
 
 #### An automation script to download youtube subscriptions as they are released
 
-[**Code on Github**](https://codetigers.org/)
+[**Visit Us**](https://codetigers.org/)
 
 ---
 
-Tools Used: **[Node.js](), [YouTube API]()**
+Tools Used: **[JavaSCript](), [PHP]()**
 
 ---
 
