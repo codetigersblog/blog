@@ -10,7 +10,11 @@ sit,
 msit,
 tib,
 tint,
-
+facebook,
+instagram,
+linkedin,
+youtube,
+twitter,
 } from '../utils/svgs'
 
 const frontEnd = [
@@ -31,7 +35,18 @@ const backEnd = [
   { title: 'tint', svg: tint, href: 'https://crystal-lang.org/' },
 ]
 
-const tools = []
+const tools = [
+  { title: 'Facebook', svg: facebook, href: 'https://www.heroku.com' },
+  { title: 'Instagram', svg: instagram, href: 'https://www.docker.com' },
+  { title: 'Linkedin', svg: linkedin, href: 'https://webpack.js.org' },
+  { title: 'Youtube', svg: youtube, href: 'https://aws.amazon.com/' },
+  {
+    title: 'Twitter',
+    svg: twitter,
+    href: 'https://www.digitalocean.com',
+  },
+]
+
 const createTechnology = ({ title, svg, href }) => (
   <Technology key={title} svg={svg} title={title} href={href} />
 )
@@ -69,7 +84,7 @@ const Technologies = () => {
       </div>
 
       <div>
-        <h3>DevOps & Tools</h3>
+        <h3>Social Connect</h3>
         <div className="technologies__row">{tools.map(createTechnology)}</div>
       </div>
     </div>

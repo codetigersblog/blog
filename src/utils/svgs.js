@@ -11,7 +11,11 @@ import msit from '../../content/assets/msit.svg'
 import tint from '../../content/assets/tint.svg'
 
 // tools
-
+import facebook from '../../content/assets/facebook.svg'
+import instagram from '../../content/assets/instagram.svg'
+import linkedin from '../../content/assets/linkedin.svg'
+import youtube from '../../content/assets/youtube.svg'
+import twitter from '../../content/assets/twitter.svg'
 
 export {
   ti,
@@ -22,4 +26,9 @@ export {
   sit,
   msit,
   tint,
+  facebook,
+  instagram,
+  linkedin,
+  youtube,
+  twitter,
 }
