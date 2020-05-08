@@ -1,0 +1,33 @@
+.btn {
+  transition: opacity 0.2s, box-shadow 0.2s, filter 0.2s, color 0.2s ease-out;
+  display: inline-flex;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: var(--hiq-color-gray-7);
+  color: var(--hiq-color-gray-3);
+  border: none;
+  border-radius: 2px;
+  padding: 16px 32px;
+  height: 48px;
+  justify-content: center;
+  user-select: none;
+
+  &:hover,
+  &:focus {
+    filter: saturate(120%);
+    color: var(--hiq-color-gray-1);
+    box-shadow: var(--shadow-mid);
+  }
+
+  &--primary {
+    background: (var--hiq-color-primary);
+    background: linear-gradient(
+      65deg,
+      var(--hiq-color-primary) 0,
+      var(--hiq-color-primary-lighter) 100%
+    );
+  }
+}
