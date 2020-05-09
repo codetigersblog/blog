@@ -41,7 +41,7 @@ const tools = [
   { title: 'Instagram', svg: instagram, href: 'https://www.instagram.com/codetigers/' },
   { title: 'Linkedin', svg: linkedin, href: 'https://www.linkedin.com/company/code-tigers/' },
   { title: 'Youtube', svg: youtube, href: 'https://www.youtube.com/channel/UC8IBU5Xgk3psB14VHNNUgqQ' },
-  { title: 'Slack', svg: slack, href: 'https://www.youtube.com/channel/UC8IBU5Xgk3psB14VHNNUgqQ' },
+  { title: 'Slack', svg: slack, href: 'https://join.slack.com/t/code-tigers/shared_invite/zt-e23okw0i-Qk0YHyA3~Q2qPDs8moKK4g' },
   {
     title: 'Twitter',
     svg: twitter,
