@@ -15,6 +15,7 @@ instagram,
 linkedin,
 youtube,
 twitter,
+slack,
 } from '../utils/svgs'
 
 const frontEnd = [
@@ -27,23 +28,24 @@ const frontEnd = [
 ]
 
 const backEnd = [
-  { title: 'tib', svg: tib, href: 'https://nodejs.org/' },
-  { title: 'snu', svg: snu, href: 'https://www.ruby-lang.org' },
-  { title: 'nsec', svg: nsec, href: 'https://rubyonrails.org/' },
-  { title: 'sit', svg: sit, href: 'https://elixir-lang.org' },
-  { title: 'msit', svg: msit, href: 'https://www.phoenixframework.org' },
-  { title: 'tint', svg: tint, href: 'https://crystal-lang.org/' },
+  { title: 'Techno India Batanagar', svg: tib, href: 'https://tib.edu.in/' },
+  { title: 'Sister Nivedita University ', svg: snu, href: 'https://www.snuniv.ac.in/' },
+  { title: 'Netaji Subash Engineering College', svg: nsec, href: 'https://www.nsec.ac.in/' },
+  { title: 'Silliguri Institute of technology', svg: sit, href: 'https://www.sittechno.org/' },
+  { title: 'Meghnad Saha Institute of Technology', svg: msit, href: 'https://msit.edu.in/' },
+  { title: 'Techno International New Town', svg: tint, href: 'https://tint.edu.in/' },
 ]
 
 const tools = [
-  { title: 'Facebook', svg: facebook, href: 'https://www.heroku.com' },
-  { title: 'Instagram', svg: instagram, href: 'https://www.docker.com' },
-  { title: 'Linkedin', svg: linkedin, href: 'https://webpack.js.org' },
-  { title: 'Youtube', svg: youtube, href: 'https://aws.amazon.com/' },
+  { title: 'Facebook', svg: facebook, href: 'https://www.facebook.com/TIGCodeTigers/' },
+  { title: 'Instagram', svg: instagram, href: 'https://www.instagram.com/codetigers/' },
+  { title: 'Linkedin', svg: linkedin, href: 'https://www.linkedin.com/company/code-tigers/' },
+  { title: 'Youtube', svg: youtube, href: 'https://www.youtube.com/channel/UC8IBU5Xgk3psB14VHNNUgqQ' },
+  { title: 'Slack', svg: slack, href: 'https://www.youtube.com/channel/UC8IBU5Xgk3psB14VHNNUgqQ' },
   {
     title: 'Twitter',
     svg: twitter,
-    href: 'https://www.digitalocean.com',
+    href: 'https://twitter.com/code_tigers',
   },
 ]
 
