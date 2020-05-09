@@ -16,7 +16,7 @@ import instagram from '../../content/assets/instagram.svg'
 import linkedin from '../../content/assets/linkedin.svg'
 import youtube from '../../content/assets/youtube.svg'
 import twitter from '../../content/assets/twitter.svg'
-import twitter from '../../content/assets/slack.svg'
+import slack from '../../content/assets/slack.svg'
 
 export {
   ti,
