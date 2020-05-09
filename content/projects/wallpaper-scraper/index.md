@@ -1,6 +1,6 @@
 ---
 title: Ruby Wallpaper Scraper
-date: "2020-05-7T00:00:00.000Z"
+date: "2020-05-07T00:00:00.000Z"
 featured: true
 image: "./preview.jpg"
 ---
