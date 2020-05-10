@@ -5,12 +5,15 @@ featured: true
 image: "./preview.jpg"
 ---
 
-#### A CLI tool that Supports Decov 2020
+#### An App to know about, and procedure of Decov 2020
 
 _May 2020_
 
-[**Playstore**](https://codetigers.org)
+[**Playstore**](https://play.google.com/store/apps/details?id=codetigers.decov)
 
 
 #### What it does
+Its Simple but Effective app which tell you all about decov 2020 and guide you through the hackathon,
+with rules and regulations 
+and can connect you with our team through social media platforms.
 
