@@ -1,7 +1,7 @@
 ---
-title: Ruby Wallpaper Scraper
+title: Code Tigers App
 date: "2020-05-07T00:00:00.000Z"
-featured: true
+featured: false
 image: "./preview.jpg"
 ---
 
