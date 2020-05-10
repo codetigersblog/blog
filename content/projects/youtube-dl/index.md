@@ -2,7 +2,7 @@
 title: CODETIGERS
 date: "2020-05-07T00:00:00.000Z"
 featured: true
-image: "./preview.jpg"
+image: "./preview.png"
 ---
 
 #### A Platform to support innovation.
