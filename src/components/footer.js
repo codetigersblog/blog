@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="footer">
       Made with <span className="footer__emoji">💙</span> by
-      <a href="http://www.codetigers.org/team.codetigers.org/">FRINGINEER</a>
+      <a href="http://www.codetigers.org/team.codetigers.org/">CTG-PANDEV</a>
     </footer>
   )
 }
